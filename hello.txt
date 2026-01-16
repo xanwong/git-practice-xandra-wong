@@ -1,3 +1,5 @@
 Hello from the main branch
 
-Add feature-b (WIP) (debugging...)
+Add feature-b
+
+new code that makes feature-b work! 
